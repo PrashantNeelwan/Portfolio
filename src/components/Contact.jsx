@@ -21,7 +21,7 @@ export default function Contact() {
     {
       icon: "📍",
       title: "Location",
-      details: ["Available for remote opportunities"],
+      details: ["Available for remote and on-site opportunities"],
       links: [null]
     }
   ];
