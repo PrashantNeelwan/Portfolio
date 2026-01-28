@@ -29,7 +29,6 @@ export default function Contact() {
   return (
     <section>
       <h2>Let's Connect</h2>
-      <p className="contact-subtitle">Feel free to reach out for collaborations, opportunities, or just to say hi!</p>
       <div className="contact-grid">
         {contactInfo.map((item, index) => (
           <div key={index} className="contact-card">
